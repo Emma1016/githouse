@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//www/models.py=utf-8
+encoding//www/transwrap/__init__.py=utf-8
+encoding//www/transwrap/db.py=utf-8
+encoding//www/transwrap/orm.py=utf-8
+encoding//www/transwrap/web.py=utf-8
